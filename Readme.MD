@@ -2,9 +2,11 @@
 
 ## 🚀 DevOps Engineer | 3+ Years Experience
 
-💡 DevOps Engineer focused on automating infrastructure and ensuring system reliability in production environments.
-
-🔧 Experienced in building and managing scalable, secure, and highly available cloud infrastructure.
+💡 DevOps Engineer with 3+ years of experience and a total of 4.2 years in IT, specializing in building, 
+automating, and securing scalable cloud infrastructure on AWS. Strong expertise in Kubernetes 
+(EKS), Infrastructure as Code (Terraform), and CI/CD automation. Experienced in implementing 
+DevSecOps practices, enhancing system reliability, and optimizing cloud environments for 
+performance, scalability, and cost efficiency. 
 
 ---
 
