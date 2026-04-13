@@ -68,14 +68,6 @@ Improved incident response time and system visibility
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=venkat7031&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkat7031&layout=compact)
-
----
-
 ## ⚡ Fun Fact
 
 I enjoy automating everything and solving real-time production issues 🚀
