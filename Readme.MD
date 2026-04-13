@@ -11,12 +11,15 @@
 ## 🛠️ Tech Stack
 
 - ☁️ AWS Cloud
+- 🏗️ Terraform (Infrastructure as Code)
 - 🐳 Docker
 - ☸️ Kubernetes
 - ⚙️ Ansible
 - 🔁 CI/CD Pipelines (Jenkins / GitHub Actions)
 - 📊 Monitoring (Prometheus, Grafana)
 - 🔐 Security & Best Practices
+- 🖥️ Shell Scripting (Bash)
+- 🐍 Python
 
 ---
 
