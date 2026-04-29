@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Uppala Venkateswarlu
 
-## 🚀 DevOps Engineer | 3+ Years Experience
+## 🚀 DevOps Engineer | 4+ Years Experience
 
-💡 DevOps Engineer with 3+ years of experience and a total of 4.2 years in IT, specializing in building, 
+💡 DevOps Engineer with 4+ years of experience, specializing in building, 
 automating, and securing scalable cloud infrastructure on AWS. Strong expertise in Kubernetes 
 (EKS), Infrastructure as Code (Terraform), and CI/CD automation. Experienced in implementing 
 DevSecOps practices, enhancing system reliability, and optimizing cloud environments for 
